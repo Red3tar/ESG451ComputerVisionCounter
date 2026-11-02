@@ -1,0 +1,10 @@
+numpy==1.17.0
+protobuf==3.9.2
+tensorflow==2.3.0
+opencv-python==4.1.1.26
+lxml
+tqdm
+absl-py
+easydict
+matplotlib
+pillow
